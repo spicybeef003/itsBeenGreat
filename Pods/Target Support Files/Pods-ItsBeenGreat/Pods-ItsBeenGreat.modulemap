@@ -1,0 +1,6 @@
+framework module Pods_ItsBeenGreat {
+  umbrella header "Pods-ItsBeenGreat-umbrella.h"
+
+  export *
+  module * { export * }
+}
